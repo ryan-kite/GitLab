@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    background-color: #a3d5f1;
+}
+
+blockquote {
+    background-color: #27475a;
+    color: rgb(235, 223, 223);
+    padding: 10px;
+    text-align: center;
+}
